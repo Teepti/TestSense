@@ -1,6 +1,6 @@
 Feature: This is a part of stock market where user can place buy order for equity for the following transactions
 Background: 
-Given Test Data is in specified file "com/api/data/BuyAndSellStocksTestData.xlsx"
+Given Test Data is in specified file "com/api/data/BuyStocksTestData.xlsx"
 
 Scenario: Successful login with valid credentials
 Given User is on Login Home page
