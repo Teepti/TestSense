@@ -1,6 +1,6 @@
 Feature: This is a part of stock market where user can place buy order for equity for the following transactions
 Background: 
-Given Test Data is in specified file "C:\Users\Revaan\Downloads\1j2h8r4ifem0gbt9tj05ienj8gdataAug-13-2020 (6).xlsx"
+Given Test Data is in specified file "com/api/data/BuyAndSellStocksTestData.xlsx"
 
 Scenario: Successful login with valid credentials
 Given User is on Login Home page
